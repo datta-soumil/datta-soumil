@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Soumil Datta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=datta-soumil&label=Profile%20views&color=004d99&style=plastic" alt="datta-soumil" /> 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/datta-soumil?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/datta-soumil?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
+<br/>
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/image.gif">
@@ -32,11 +38,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=datta-soumil&label=Profile%20views&color=004d99&style=plastic" alt="datta-soumil" /> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tarunsarawgi?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/tarunsarawgi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
+
 
 
 
@@ -46,16 +48,21 @@ Here are some ideas to get you started:
   <img height="130" width="150" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
 </p>
 
+<br/><br/><br/>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datta-soumil" alt="datta-soumil" /></a> </p>
-
-<p align="center"> 
- <img height = " 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=datta-soumil&show_icons=true&theme=dark&title_color=ffa70f&text_color=5c5c5c&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="datta-soumil" />
- <img  src="https://github-readme-stats.vercel.app/api?username=datta-soumil&show_icons=true&theme=dark&title_color=ffa70f&text_color=5c5c5c&bg_color=000000&hide_border=true&locale=en" alt="datta-soumil" /> 
+<p align="center">
+  <br/>
+  <a href="https://github.com/datta-soumil/github-readme-stats"><img alt="Soumil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=datta-soumil&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=ffa70f&text_color=5c5c5c&bg_color=0D1117" /></a>
+  <a href="https://github.com/datta-soumil/github-readme-stats"><img alt="Soumil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta-soumil&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&title_color=ffa70f&text_color=5c5c5c&bg_color=0D1117" /></a>
+ <br/>
 </p>
- <br/><br/>
 
+<br/> <br/> <br/>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=datta-soumil&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="datta-soumil" />
+</p>
+
+<br/><br/>
+
+![footer](https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/footer.png)
