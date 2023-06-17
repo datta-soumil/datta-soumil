@@ -38,17 +38,11 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/>
 
-
-
-
-
 <p align="center">
    <img height="130" width="150" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/left.png">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datta-soumil&theme=dark" alt="datta-soumil" />
   <img height="130" width="150" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
 </p>
-
-<br/><br/><br/>
 
 <p align="center">
   <br/>
@@ -57,7 +51,7 @@ Here are some ideas to get you started:
  <br/>
 </p>
 
-<br/> <br/> <br/>
+<br/> 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=datta-soumil&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="datta-soumil" />
