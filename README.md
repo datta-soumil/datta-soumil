@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🔭 I’m currently working on DSA!
-- 🌱 I’m currently learning WebDev
+- 🔭 I’m currently working on DSA and Deep Learning!
+- 🌱 I’m currently learning pyTorch!
 - 👯 I’m looking to collaborate for hackathons and projects.
 - 🎤 Looking for opportunities to manage and host events as well!
-- 🥅 2023 Goals: Contribute more to Open Source projects and Learn more!
+- 🥅 2024 Goals: Contribute more to Open Source projects and Learn more!
 - ⚡ Fun fact: I love to watch web-series/movies and listen music.
 
 
